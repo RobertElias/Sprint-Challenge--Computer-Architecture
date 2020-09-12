@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """Main."""
-
+#python3 ls8.py sctest.ls8
 import sys
 from cpu import *
 
